@@ -44,7 +44,9 @@ footer {
     padding: 10px 0;
     position: relative;
     bottom: 0;
-    width: 100%;
+    width: 100% ;
+    
+
 }
 
 .caixa {
@@ -58,12 +60,14 @@ footer {
 
 }
 .cosm {
-font-size: 24px;
+font-size: 20px;
 
 }
 
 .oii {
-margin-top: 0px;
+    border: 1px solid #ccc;
+   font-size: 15px;
 
 }
+
 
